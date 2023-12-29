@@ -1,6 +1,6 @@
 # Приложение для дисплея логов SQL и Apache через React/XAMPP
 
-Это приложение состоит из двух основных частей: frontend (React) и backend (включая Apache и phpMyAdmin с использованием XAMPP).
+Это приложение состоит из двух основных частей: frontend (React) и backend (XAMPP).
 
 ## Использование:
 
